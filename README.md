@@ -137,7 +137,7 @@ python scripts/firewall_restore.py
 ---
 
 ## **🙌 Contributors**
-- 🔹 **[Your Name]** – MOPURU VENKATA SRIKANTH REDDY   
-- 💡 **[SURYA VARDHAN]**  
+- 🔹  MOPURU VENKATA SRIKANTH REDDY {DEVELOPER}   
+- 💡  SURYA VARDHAN {TEAM MEMBER}
 
 🚀 **Enjoy Secure Network Analysis!** Let me know if you need enhancements! 😊
