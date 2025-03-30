@@ -1,0 +1,7 @@
+scapy
+psutil
+pandas
+numpy
+joblib
+sklearn
+tkinter
